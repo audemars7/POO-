@@ -1,0 +1,10 @@
+BusinessEntity\DetalleCompraBE.class
+com\mycompany\project_cacao\Project_cacao.class
+DataAccessObject\ConexionMySQL.class
+interfaces\IBaseDAO.class
+com\mycompany\project_cacao\TestProductor.class
+DataAccessObject\DetalleCompraDAO.class
+BusinessEntity\ProductorBE.class
+DataAccessObject\CompraDAO.class
+DataAccessObject\ProductorDAO.class
+BusinessEntity\CompraBE.class
