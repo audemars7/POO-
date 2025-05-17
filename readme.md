@@ -22,5 +22,5 @@ Este proyecto fue desarrollado como parte de la **Semana 08 - DAO** del curso de
 4. Ejecutamos `TestProductor.java` para probar la inserción de datos.
 
 ## 👤 Autor
-Erick Ademar Zavaleta Barboza
+- Erick Ademar Zavaleta Barboza
 - Raul Alfredo Ramos Meza
