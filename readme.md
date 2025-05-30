@@ -24,3 +24,4 @@ Este proyecto fue desarrollado como parte de la **Semana 08 - DAO** del curso de
 ## 👤 Autor
 - Erick Ademar Zavaleta Barboza
 - Raul Alfredo Ramos Meza
+- Bryan Omar Puyen Ramírez
